@@ -51,3 +51,5 @@ resources:
         routes:
           - path: /*
             functionName: 'springboot-t9n9'
+
+env: env.yaml
